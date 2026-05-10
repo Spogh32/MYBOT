@@ -1,0 +1,11 @@
+.git
+.local
+.cache
+node_modules
+artifacts
+__pycache__
+*.pyc
+*.pyo
+*.egg-info
+.env
+attached_assets
